@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{ECA93D79-6639-A9BA-EC94-407DDE4AB0D6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AngryBirdMouseController.cs">
+    <Files>
+      <File FileName="Assets/AngryBirdMouseController.cs" Line="15" Column="18" />
+      <File FileName="Assets/Piggy.cs" Line="18" Column="54" />
+      <File FileName="Assets/SlingShotLineRenderer.cs" />
+      <File FileName="Assets/AngryBirdTurboBoostPowerUp.cs" />
+      <File FileName="Assets/AngryBirdBlastPowerUp.cs" />
+      <File FileName="Assets/MyGameManager.cs" Line="48" Column="29" />
+      <File FileName="Assets/AngryBirdDestroyScript.cs" Line="20" Column="54" />
+      <File FileName="Assets/UIManager.cs" Line="9" Column="31" />
+      <File FileName="Assets/PauseResumeFunctionality.cs" Line="19" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSC435_AngryBirdsClone_ClassProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AngryBirdMouseController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="61b78564-9df9-406b-affd-09e1a4b43607" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
